@@ -36,7 +36,7 @@ export default function Login() {
                     </span>
                 </div>
                 <div className="w-[40%] h-full">
-                    <img src="/public/images/4_SdjkdS98aKH76I8eD0_qjw.webp" alt="" className="w-full h-full " />
+                    <img src="/images/4_SdjkdS98aKH76I8eD0_qjw.webp" alt="" className="w-full h-full " />
                 </div>
             </div>
 
