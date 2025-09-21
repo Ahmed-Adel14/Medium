@@ -26,7 +26,7 @@ export default function Welcome() {
             <div className="text-[35px] text-[#000000] font-playfair font-[700]">Medium</div>
 
             <div className="w-60 h-40">
-                <img className="w-full h-full" src="/public/images/images.png" alt="" />
+                <img className="w-full h-full" src="/images/images.png" alt="" />
             </div>
 
             <div className="text-[35px] text-[#000000d7] font-playfair">Welcome to Medium!</div>

@@ -56,7 +56,7 @@ export default function SignIn() {
         <div className="h-screen flex">
             {/* الجزء الشمال (صورة / Illustration) */}
             <div className="hidden md:flex w-1/2 items-center justify-center">
-                <img src="/public/images/student-selecting-ebook-online-from-book-library_701961-8638.jpg" alt="Sign in illustration" className="w-fit h-auto" />
+                <img src="/images/student-selecting-ebook-online-from-book-library_701961-8638.jpg" alt="Sign in illustration" className="w-fit h-auto" />
             </div>
 
             {/* الجزء اليمين (الفورم) */}

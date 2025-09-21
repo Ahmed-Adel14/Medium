@@ -57,7 +57,7 @@ export default function Choose() {
         <div className="flex items-center gap-7 flex-col">
             <div className="text-[35px] text-[#000000] font-playfair font-[700]">Medium</div>
             <div className="w-60 h-40 mt-18">
-                <img className="w-full h-full object-contain" src="/public/images/choose.png" alt="" />
+                <img className="w-full h-full object-contain" src="/images/choose.png" alt="" />
             </div>
             <h1 className="text-[30px] text-[#000000] font-playfair">What are you interested in?</h1>
             <p className="text-black text-[20px]">Choose three or more.</p>
