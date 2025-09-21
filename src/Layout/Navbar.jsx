@@ -71,6 +71,7 @@ export default function Navbar({ isOpen, setIsOpen }) {
                     <Link to="/Notifications" className="text-[20px]  hover:text-black cursor-pointer">
                         <IoNotificationsOutline />
                     </Link>
+                    // abdo was here 
 
                     <div className="relative inline-block">
                         <span
